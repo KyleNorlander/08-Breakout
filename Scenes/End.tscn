@@ -16,10 +16,10 @@ margin_bottom = 600.0
 color = Color( 0, 0, 0, 1 )
 
 [node name="Label" type="Label" parent="Message"]
-margin_left = 300.0
-margin_top = 248.0
+margin_left = 310.0
+margin_top = 230.0
 margin_right = 710.0
-margin_bottom = 330.0
+margin_bottom = 312.0
 custom_fonts/font = SubResource( 1 )
-text = "Game Over!"
+text = "Sayōnara"
 align = 1

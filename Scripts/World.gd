@@ -1,7 +1,7 @@
 extends Node
 
 export var score = 0
-export var lives = 4
+export var lives = 3
 
 func increase_score(s):
  score += int(s)
